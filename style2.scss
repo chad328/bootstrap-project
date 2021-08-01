@@ -1,0 +1,128 @@
+ .container{
+    font-family: 'Noto Sans TC', sans-serif;
+}
+a{
+    text-decoration: none;
+}
+.linkcolor{
+    color: rgb(254, 215, 208);
+}
+.logo-size{
+    display: inline-block;
+    width: 111px;
+    height: 40px;
+}
+.line{
+    width: 100%;
+    height: 2px;
+    border:1px solid #FFDF65;
+}
+.font-s{
+    font-size: 14px;
+}
+.font-s2{
+    font-size: 18px;
+}
+.font-n{
+    font-size: 20px;
+}
+.font-n2{
+    font-size: 24px;
+}
+.fontbaloo{
+    font-family: 'Baloo Tamma 2', cursive;
+}
+.currentnum{
+    font-family: 'Baloo Tamma 2', cursive;
+    font-size: 32px;
+    color: #494846;
+}
+.title-d{
+    font-size: 32px;
+    line-height: 56px;
+    margin-bottom: 8px;
+}
+.distance-s{
+    margin-bottom: 19.9px;
+}
+.margin-rs{
+    margin-right: 25px;
+}
+.mb-s{
+    margin-bottom: 16.6px;
+}
+div.border-left{
+    border-left: 3px solid #FFDF65;
+}
+.mb-n{
+    margin-bottom: 37.9px;
+}
+.thick-n{
+    border:3px solid gray
+}
+.widthn{
+    width: 58%;
+}
+.widthn:hover{
+    background-color: #FFDF65;
+    border-color: #FFDF65;
+}
+
+.widths{
+    width: 38%;
+}
+.widths:hover{
+    background-color: #FFDF65;
+    border-color: #FFDF65;
+}
+.textred{
+    color: #FF785E;
+}
+.textdark{
+    color: #636057;
+}
+.dark3{
+    background-color: #F8F9FA;
+}
+.boxborder{
+    border: 1px solid #E5E5E5;
+    border-radius: 8px;
+}
+.box2border{
+    border: 1px solid #E5E5E5;
+}
+.box3border{
+    border: 1px solid #E8E8DB;
+    border-radius: 8px;
+}
+.mb32{
+    margin-bottom: 32px;
+}
+.copyrightbox{
+    background-color: #494846;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    text-align: center;
+    font-size: 16px;
+    color: white;
+}
+.color-orange1{
+    color: orange;
+}
+.color-orange1:hover{
+    color: orange;
+}
+.btn-primary:hover{
+    background-color: #FF785E;
+    color: white;
+}
+.bordercolor1{
+    border: 2px solid #858377;
+}
+.changecolor:hover{
+    background-color: #FFDF65;
+    border-color: #FFDF65;
+}
+button.nav-link:hover{
+    color: #636057;
+}
